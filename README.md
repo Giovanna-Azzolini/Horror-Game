@@ -1,4 +1,4 @@
-<h1 align="center"> HORROR GAME </h1>
+<h1 align="center"> HORROR GAME 👻 </h1>
 
 <p align="center">
 Uma Landing Page voltada para a exibição de um jogo do gênero terror ☠️.
